@@ -1,0 +1,16 @@
+GB Mod Loader uses two licenses.
+
+1. The plugin interface: sdk\gbml.h
+   MIT License. Full text: LICENSES\MIT.txt
+   Anyone may use this header to write and share plugins, under whatever terms they choose.
+
+2. Everything else, including the loader
+   Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+   Full text: LICENSES\CC-BY-ND-4.0.txt
+   You may use and redistribute unmodified copies, with credit. You may not distribute modified
+   versions without written permission from the copyright holders.
+
+Copyright (c) 2026 Dusty926 and contributors.
+
+These licenses cover only this work. IL-2 Great Battles and its files belong to their owners and
+are not included or licensed here.
