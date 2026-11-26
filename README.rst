@@ -7,8 +7,8 @@
 .. |download| image:: https://img.shields.io/badge/Download-latest-c98a4b?style=for-the-badge
    :target: https://github.com/Dusty926/GB-Mod-Loader-Releases/releases/latest
    :alt: Download the latest release
-.. |build| image:: https://img.shields.io/badge/Game_build-20261004-2c4a5e?style=for-the-badge
-   :alt: Game build 20261004
+.. |build| image:: https://img.shields.io/badge/Game_build-20261124-2c4a5e?style=for-the-badge
+   :alt: Game build 20261124
 .. |platform| image:: https://img.shields.io/badge/Windows-64--bit-2c4a5e?style=for-the-badge
    :alt: Windows 64-bit
 .. |license| image:: https://img.shields.io/badge/License-CC_BY--ND_4.0-2c4a5e?style=for-the-badge
